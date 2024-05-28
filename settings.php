@@ -1,6 +1,6 @@
 <?php
-//define('C_REST_CLIENT_ID','local.5c8bb1b0891cf2.87252039');//Application ID
-//define('C_REST_CLIENT_SECRET','SakeVG5mbRdcQet45UUrt6q72AMTo7fkwXSO7Y5LYFYNCRsA6f');//Application key
+define('C_REST_CLIENT_ID','app.66562fcd278ff8.98159531');//Application ID
+define('C_REST_CLIENT_SECRET','6mVHCG8JOUW4YxU6GicbwF0JB3Xjxo9Nob09XXgPu3RLjv7Xfe');//Application key
 // or
 //define('C_REST_WEB_HOOK_URL','https://rest-api.bitrix24.com/rest/1/doutwqkjxgc3mgc1/');//url on creat Webhook
 
